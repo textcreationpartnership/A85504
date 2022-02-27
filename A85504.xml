@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation out of Ireland, of all the passages, and overthrowes given to the rebels, from the 1 of Iune untill the 10 of July, 1642. Sent in a letter from Captaine Iohn Gower, and ordered to be printed.</title>
+            <author>Gower, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85504</idno>
+            <idno type="STC">Wing G1461</idno>
+            <idno type="STC">Thomason E107_8</idno>
+            <idno type="STC">ESTC R20272</idno>
+            <idno type="EEBO-CITATION">99862914</idno>
+            <idno type="PROQUEST">99862914</idno>
+            <idno type="VID">115094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115094)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation out of Ireland, of all the passages, and overthrowes given to the rebels, from the 1 of Iune untill the 10 of July, 1642. Sent in a letter from Captaine Iohn Gower, and ordered to be printed.</title>
+                  <author>Gower, John, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Best,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115094:1" rendition="simple:additions"/>
+            <p>A TRVE RELATION Out of IRELAND, Of All The Paſſages, and Overthrowes Given to the REBELS, from the 1 of <hi>Iune</hi> untill the 10 of <hi>July,</hi> 1642.</p>
+            <p>Sent in a Letter from Captaine IOHN GOWER, And Ordered to be Printed.</p>
+            <p>London, Printed for <hi>Richard Beſt,</hi> 164<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115094:2"/>
+            <pb n="3" facs="tcp:115094:2"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg> May be bold to aſſume thus much to my ſelfe, that I have not ommitted any occaſion wherein I might ſerve you according to your commands, I have for<g ref="char:EOLhyphen"/>merly ſent you the relation, the good ſervice my Lord of</hi> Inchiquin <hi>hath done to the ſtate, and this Coun<g ref="char:EOLhyphen"/>try; Ever ſince our arrivall he hath commanded in chiefe as Ge<g ref="char:EOLhyphen"/>nerall of theſe Forces by being vice Preſident to his Father in Law during the time of his long ſickneſſe, in which ſervice I'may mo<g ref="char:EOLhyphen"/>deſtly ſay he hath expreſſed himſelfe, the only Terror to our Ene<g ref="char:EOLhyphen"/>mies, the greateſt comfort to the Kings good Subjects, and the moſt abſolute (next under God, and your cares) protector of this Pro<g ref="char:EOLhyphen"/>vince; for no man can more certainly relate (his continuall care of our diſteſſed, and beleagur'd friends, his nightly excurſitions and in<g ref="char:EOLhyphen"/>curſions upon the enemies quarters, his extraordinary Sedulity in procuring ſpies, and intelligencers in all parts of the enemies Countries) then my ſelfe, who had the honor to be imployed in ſome of theſe expeditions; but what will now happen unto us we are both ignorant, and have juſt cauſe to feare, for the Lord</hi> Preſident <hi>is now departed this World, and our Enemy hopes, and we feare, an alteration of our chiefe Commanders, for we cannot hope for any in his place, ſo fit for it as he is himſelfe, he being acquainted both with the condition of the people, ſpeaking their own language, and ſo knowing in the Country, that he is of the whole Army the beſt guide himſelfe, I will not detract from any of our ancient Of<g ref="char:EOLhyphen"/>ficers here, for we have Sir</hi> William Oagle, <hi>Sir</hi> Charles Vava<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur, <hi>Sir</hi> John Paulet, <hi>very gallant men and old Souldiers, and ſo have expreſſed themſelves in theſe affaires, but I am of that opi<g ref="char:EOLhyphen"/>nion,
+<pb n="4" facs="tcp:115094:3"/>
+that they doe finde this kind of ſervice ſomething new to them, for our chiefeſt expeditions come by camiſadoes in the night, or ſudd<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſurpriſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls upon ſome certaine intelligences of the ene<g ref="char:EOLhyphen"/>mies re<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lls, which ſeldome happens, but my Lords ſpies doe diſcover, and it hath hitherto prooved to the ruine of all, or moſt of them, as did appeare in the buſines with Sir</hi> Edward Fitz<g ref="char:EOLhyphen"/>harris, <hi>and the overthrow which he gave to the Lord</hi> Roch, <hi>and the</hi> Quond<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, <hi>and in our laſt conflict where we got the victory <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thouſand five hundred T<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e, and Horſe, with about ſix hundred and fifty of ours, where we ſlue foure hundred of the enemy, tooke five Colours, ſome pri<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oners, all their baggage, and many armes, as the relation here incloſed doth further expreſſe. The former of theſe expeditions were abſolutely his own, and in this later Sir</hi> William Oagle, <hi>and Sir</hi> John Paulet, <hi>with part of their Regiments were with him; yet if I doe aſcribe that likewiſe to him, it is no more then their own act, becauſe this I muſt ſpeake of mine own knowledge, That when we ſtood in batalia oppoſite to the Enemy, they ſeeing the number of the Enemy ſo far exceeding ours, they were unwilling to conſent that we ſhould fight, and told my Lord that they would doe their Offices as Colonells, but the act ſhould be his own, upon which my Lord commanded to charge, and got the victory without the loſſe of two men, nor doe I imagine but that theſe Co<g ref="char:EOLhyphen"/>lonells adviſed my Lord very well, conſidering what ſervice they had formerly been in, where one Army equally armed, equally valiant had fought: this ods of number had been dangerous to us, but my Lord by his intelligence, certainly knew all the proceed<g ref="char:EOLhyphen"/>ings of their Army, how they were Arm'd, how ſtrong in foot, how in horſe, and was very certaine that we farr exceeded them in the ſtrength of the horſe, which was the maine ground that made him in my hearing give this reaſon why he would fight, that with the ſtrength of his horſe and the largeneſſe off the plaine he was able to releeve the foote and bring them off when he pleaſed. This relation I onely make to conduce to that I formerly ſaide, that though we have many brave Commanders yet I conceive I cannot detract from any of them in ſuppoſing him the moſt fit man for this warre. I hope and I make no queſtion but you ſhall heare, that we ſhall goe for<g ref="char:EOLhyphen"/>wards a pace in our victories ſo long as he that now commands doth continue in his place, for he hath wrought his intendments almoſt
+<pb n="5" facs="tcp:115094:3"/>
+to a full ripeneſſ conſidering the ſmall forces that we have, being not able to march two thouſand into the field, But thus I will conclude with you, and value my Iudg<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment accordingly in other things if it doe not happen according to my ſence, that the alteration of our chiefe Officer be not the greateſt Remorah to our proceedings that can hap<g ref="char:EOLhyphen"/>pen, but I queſtion not if that greedy beaſt Ambition be not amongſt us, our Colonels and great Officers will Petition you for that which we the inferiour officers, and the reſt of the Armie ſo much deſire: I have my ſelfe had my ſhare in all theſe buſineſſes, it was my fortune to take a Leiutenant priſoner in the laſt he is able to pay enough for his <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>anſ<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> if I might be<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>it, but I beleeve he will be hanged ere you receive this Letter: if I have done any thing more then ordina<g ref="char:EOLhyphen"/>ry you ſhall have the relation from</hi>
+            </p>
+            <closer>
+               <signed>Your Servant
+<hi>Iohn Gower</hi>
+               </signed>
+               <dateline>Donaroyall <date>
+                     <hi>Iuly</hi> 3. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="report">
+            <pb n="6" facs="tcp:115094:4"/>
+            <head>THE OCCURRENCES Incloſed in the letter aforeſaid.</head>
+            <p>THe Lord <hi>Inchiquin</hi> marched over the mountaines with his troopes and 80 footmen to pillage the Country, and tooke ſome Caſtles that would annoy us, but in his returne, Sir <hi>Edward Fitz-harris</hi> came downe with his Army and way-laid them, ſo my Lord fell upon them, beat them out of their holdes, ſlew about one hundred and forty of them, and came ſafe home with his prey without the loſſe of one man. Vpon holy thurſday our forces marched into the <hi>L. Roch</hi> his Country: but the <hi>Quondames</hi> who are notable rebels, and the Lord <hi>Roch</hi> had heard of his comming and were drawne into battalia, but my Lord fell upon them, routed them, and kil<g ref="char:EOLhyphen"/>led betwixt two and three hundred, and brought away the prey home ſafe. The weeke after Whit ſunday Sir <hi>Charles V<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſaur</hi> with his regiment, and Captaine <hi>Gepſons</hi> troop beleagured a place called Drumaneeue, and battered it the firſt day, with 2 peeces of ordnance, made a breach in the Wall of the Court, and entred the breach with the ſouldiers, but were beaten off it with the loſſe of five or ſix men: the wall being hollow, the e<g ref="char:EOLhyphen"/>nemie ſets fire on it, ſo that they could not aſſault there any more: next day my Lord appointed me to wait on him thither, where they had drawne their approches to the gate, but thoſe guns would not bite: ſo that they were conſtrained to ſend to Corke to fetch a greater, which came in two or three dayes, ſo they battered it all that day, all the next, and in concluſion took it by compoſition, that they ſhould depart with their lives and
+<pb n="7" facs="tcp:115094:4"/>
+their cloathes on their backes. The next day my Lord ſent me with forty horſes through the <hi>Roch</hi> his Country, into the <hi>Quon<g ref="char:EOLhyphen"/>dams</hi> where we ſaw the enemy, tooke away their cowes, ſheepe, and horſes, ſo we brought them all home ſafe, they never once offering to aſſault or hinder us: within two dayes my Lord <hi>In<g ref="char:EOLhyphen"/>chiquin</hi> drew the horſe and foot together and ſate downe before the Lord <hi>Roch</hi> his Caſtle, and battered it all that day and that night, the next day they begd quarter, which my Lord denyed. I was ſent with my Lords troope to pillage round about, I brought above a thouſand ſheep and three hundred cattell: that night our troop was commanded to lie at the foot of the moun<g ref="char:EOLhyphen"/>tain to ſtop any reliefe from comming to the Caſtle we lay there two nights, which hath bred a great ſickneſſe amongſt them I brought out of Yorkeſhire, all this whole night and day the Caſtle was battered and no quarter would be given them, untill ſuch time as newes was brought, that the enemy was gathered together and fallen upon our quarters at Dona-royall, ſo that we were forced to give them quarter, and turne them out of the Caſtle with their lives, and to haſte to our owne Towne, which we did, we tooke great ſtore of Corne, many Arms, and much other proviſion in the Caſtle, there were ſeven or eight hundred people in it beſides old women and children, who fled into the mountaines, where we ſhall be ſure to have them the next Caſtle we take, and then they may certainely expect a generall hang<g ref="char:EOLhyphen"/>ing. The 27 of Iune about 12 of the clocke at night my Lord <hi>Inchiquin</hi> ſent me out with forty horſe and fifty foot to releive Liſcarroll and Newmarket, which <hi>I</hi> did, and drove the Cattle away from the Caſtle Anno and beat 300 of their men from the prey and came ſafe home. Vpon Saint <hi>Peters</hi> Eve, my Lord <hi>Inchiquin</hi> received intelligence that eighteen colours were come from the county of Limbrick, and were ſet down before a place called Caſtle Dodd, in the hands of one Maſter <hi>Munck</hi> a friend unto our Army, and a good ſubiect, my Lord as he hath beene alwayes ready to relieve ſuch, adviſed with Sir <hi>William Oagle</hi> and Sir <hi>Iohn Paulet,</hi> who ſuddainly concluded to march: which wee did betwixt eleaven and twelve a clocke that night, and found them not there, but heard they were gone: unto a place called New towne alias <hi>Shaudrum,</hi> in the County of <hi>Cork,</hi> from
+<pb facs="tcp:115094:5"/>
+whence they intended the next night with other forces to fall on our quarters according to their pretence: they had heard of our comming by that time we marched toward them, for moſt of our neighbours here are Traytors, in the ſame condition with the rebels, wee found them at the end of a Champiane in Battalia, a little bog being betweene them and us, the troopes iuſt behind them, and under the towne a great moroſſe and wood: we preſented them battaile, but they immediately drew out of the plaine into the lanes, and the a ſoreſaid townes, ſo that our horſe could no way helpe us or offend them, upon which we drew up the muſquetiers, who diſputed the buſineſſe with them, for an houre, untill ſuch time as the horſe found out a little way through the wood &amp; incompaſſed the enemie round, which as ſoone as they perceived, they retreated, but in ſuch, diſorder, that our horſe having ſome convenient ground to charge them, fell upon them, and ſo abſolutely routed then whole body; the buſineſſe after that was nothing, but the execu<g ref="char:EOLhyphen"/>tion I beleeve was as great as any hath beene ſince theſe warrs began: the number could not be certainely knowne, becauſe the execution was ſo diſperſed, &amp; the enemie throwing downe their weapons and running, gave us encouragement to fight disbanded, ſo that the ſlaughter was over all the fields, both bogs and ditches; the generall vote is, that there were ſlaine about foure or five hundred men, but if you will have my opi<g ref="char:EOLhyphen"/>nion, having the command of the horſe that day, and ſaw what were ſlaine, both by the horſe and foote, there was ſlaine ſix hundred; we tooke ſive colours, ſome priſoners, where<g ref="char:EOLhyphen"/>of I tooke my ſelfe a Lieuetenant priſoner, we tooke all their baggage, and many armes, two daies after this battle my Lord Preſident died, and without queſtion poyſoned by the popiſh Doctors.</p>
+            <closer>
+               <signed>Yours
+<hi>Iohn Gower.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
